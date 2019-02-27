@@ -1,0 +1,12 @@
+name = "Bill's theme, modified from Call me Sam."
+license = "Creative Commons Attribution 3.0 Unported"
+licenselink = "https://github.com/vickylai/hugo-theme-sam/blob/master/LICENSE.txt"
+description = "Simple And Minimalist theme for Hugo. Modified by Bill"
+homepage = "https://github.com/vickylai/hugo-theme-sam"
+tags = ["clean", "simple", "blog", "portfolio", "flexbox", "css grid", "minimalist", "responsive", "syntax highlighting", "gallery", "starter"]
+features = ["responsive", "gallery"]
+min_version = "0.30"
+
+[author]
+  name = "Bill Nelson"
+  homepage = "https://billmainlandnelson.com"
