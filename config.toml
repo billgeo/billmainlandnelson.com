@@ -18,7 +18,7 @@ googleAnalytics         = "UA-135358161-1"
     clickablePhotos     = false                          # Allow links to the full size images
     footerText          = "© Bill Nelson 2019"
 
-Metadata
+# Metadata
     description         = "Site for Bill Mainland Nelson."            # Max 160 characters show in search results
     twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
     primaryImage        = "tn.png"                     # Image that shows on Twitter cards and OpenGraph links
