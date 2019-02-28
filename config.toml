@@ -32,13 +32,13 @@ pygmentsCodefences      = true
 
 [[params.mainMenu]]
     link = "/about"
-    text = "bill nelson"
+    text = "Bill Mainland Nelson"
 
 [[params.mainMenu]]
     link = "/work"
-    text = "work"
+    text = "Work"
 
 [[params.mainMenu]]
     link = "/bicycles"
-    text = "bicycles"
+    text = "Bicycles"
 

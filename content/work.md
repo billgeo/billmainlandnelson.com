@@ -9,11 +9,14 @@ draft: false
 “No, seriously, it’s fucking great writing.”
 Simon Sweetman, goodreads.com
 
-![Memorandum of Understanding](/images/work/MOU.jpg)
+[![Memorandum of Understanding](/images/work/MOU.jpg)](http://vup.victoria.ac.nz/memorandum-of-understanding/)
 
 ### Up Country - A Journal for the New Zealand Outdoors
 
-### Best New Zealand Poems 2016
+[![A bushshirt](/images/work/bushshirt.jpg)](https://upcountry.co.nz)
 
-### Best New Zealand Poems 2010
+### Best New Zealand Poems
 
+[2016](https://www.bestnewzealandpoems.org.nz/past-issues/2016-contents/bill-nelson/) | [2010](https://www.bestnewzealandpoems.org.nz/past-issues/2010-contents/bill-nelson/)
+
+![A Champion](/images/work/andre.jpg)
