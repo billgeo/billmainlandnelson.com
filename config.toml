@@ -1,4 +1,4 @@
-baseURL = "https://billmaindlandnelson.com/"
+baseURL = "https://billmainlandnelson.com/"
 languageCode = "en-uk"
 defaultContentLanguage  = "en"
 isMultilingual          = false
@@ -6,7 +6,7 @@ title = "Bill Nelson"
 theme = "bill2"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
-# googleAnalytics         = ""             # Tracking code, eg. "UA-111111111-1"
+googleAnalytics         = "UA-76666100-2"
 
 [params]
     author = "Bill Nelson"
@@ -16,11 +16,7 @@ pygmentsCodefences      = true
     homepage            = "main"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = false                          # Allow links to the full size images
-    #smallPreviewImages   = true                         # Show small images from the subfolder instead of the big versions in the gallery
-                                                         # Note: This will only become active if clickablePhotos is also true.
-    #smallImagesSubfolder = "small/"                      # The subfolder for the small versions of the images under the gallery (with trailing slash)
-                                                         # For each image the small version has to have the same filename as the big version.
-    #footerText          = "Call me Sam, a theme for Hugo."
+    footerText          = "© Bill Nelson 2019"
 
 # Metadata
     #description         = "A new Hugo site."            # Max 160 characters show in search results
