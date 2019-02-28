@@ -1,5 +1,5 @@
 ---
-title: "bill nelson"
+title: "Bill Mainland Nelson"
 date: 2019-02-14T12:35:02+01:00
 draft: false
 ---

@@ -1,5 +1,4 @@
-#baseURL = "http://billmaindlandnelson.com/"
-baseURL = "https://master.d2ms5i4iloq8ns.amplifyapp.com/"
+baseURL = "https://billmaindlandnelson.com/"
 languageCode = "en-uk"
 defaultContentLanguage  = "en"
 isMultilingual          = false
