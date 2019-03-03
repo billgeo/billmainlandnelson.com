@@ -7,6 +7,7 @@ theme = "bill2"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
 googleAnalytics         = "UA-135358161-1"
+enableRobotsTXT         = true
 
 [params]
     author = "Bill Nelson"
