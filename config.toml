@@ -20,7 +20,7 @@ enableRobotsTXT         = true
     footerText          = "© 2019 Bill Mainland Nelson"
 
 # Metadata
-    description         = "Official site for Bill Mainland Nelson's poetry, writing, books, bicycles and contact."
+    description         = "The official Bill Mainland Nelson. Poetry, writing, books, bicycles."
     twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
     primaryImage        = "tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
