@@ -8,4 +8,4 @@ Bill Nelson is poet from Wellington, New Zealand. His book, 'Memorandum of Under
 
 He's also into cycling and geospatial data.
 
-Find him on [email](mailto:billmnelson@gmail.com), [twitter](https://twitter.com/billmnelson), [instagram](https://www.instagram.com/billmnelson/) or [github](https://github.com/billgeo/billmainlandnelson.com).
+Find him on [email](mailto:billmnelson@gmail.com), [twitter](https://twitter.com/billmnelson), [instagram](https://www.instagram.com/billmnelson/) or [github](https://github.com/billgeo).
