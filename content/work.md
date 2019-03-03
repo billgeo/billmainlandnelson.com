@@ -17,7 +17,7 @@ Simon Sweetman, goodreads.com
 
 ### Best New Zealand Poems
 
-[2010](https://www.bestnewzealandpoems.org.nz/past-issues/2010-contents/bill-nelson/) | 
-[2016](https://www.bestnewzealandpoems.org.nz/past-issues/2016-contents/bill-nelson/)
+[Giant Steps](https://www.bestnewzealandpoems.org.nz/past-issues/2010-contents/bill-nelson/) (2010) | 
+[Memorandum of Understanding](https://www.bestnewzealandpoems.org.nz/past-issues/2016-contents/bill-nelson/) (2017)
 
 [![A Champion](/images/work/andre.jpg)](https://www.bestnewzealandpoems.org.nz/past-issues/2016-contents/bill-nelson/)
