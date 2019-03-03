@@ -6,4 +6,6 @@ draft: false
 
 Bill Nelson is poet from Wellington, New Zealand. His book, 'Memorandum of Understanding' was published in 2016 by [Victoria University Press](http://vup.victoria.ac.nz). His poems have appeared in journals, dance performances, art galleries and on billstickers. 
 
-Find him on [email](mailto:billmnelson@gmail.com), [twitter](https://twitter.com/billmnelson) or [instagram](https://www.instagram.com/billmnelson/).
+He's also into cycling and geospatial data.
+
+Find him on [email](mailto:billmnelson@gmail.com), [twitter](https://twitter.com/billmnelson), [instagram](https://www.instagram.com/billmnelson/) or [github](https://github.com/billgeo/billmainlandnelson.com).
