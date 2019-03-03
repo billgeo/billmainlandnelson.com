@@ -2,7 +2,7 @@ baseURL = "https://billmainlandnelson.com/"
 languageCode = "en-uk"
 defaultContentLanguage  = "en"
 isMultilingual          = false
-title = "Offiial Site for Bill Mainland Nelson"
+title = "Bill Mainland Nelson"
 theme = "bill2"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
@@ -17,10 +17,10 @@ enableRobotsTXT         = true
     homepage            = "Main"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = false                          # Allow links to the full size images
-    footerText          = "© 2019 Bill Mainland Nelson. Powered by [Hugo](https://gohugo.io/)"
+    footerText          = "© 2019 Bill Mainland Nelson"
 
 # Metadata
-    description         = "Official site for Bill Mainland Nelson. Poetry, writing, books, bicycles and contact details."
+    description         = "Official site for Bill Mainland Nelson's poetry, writing, books, bicycles and contact."
     twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
     primaryImage        = "tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
