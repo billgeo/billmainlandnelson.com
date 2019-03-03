@@ -2,7 +2,7 @@ baseURL = "https://billmainlandnelson.com/"
 languageCode = "en-uk"
 defaultContentLanguage  = "en"
 isMultilingual          = false
-title = "Bill Nelson"
+title = "Offiial Site for Bill Mainland Nelson"
 theme = "bill2"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
@@ -19,7 +19,7 @@ googleAnalytics         = "UA-135358161-1"
     footerText          = "© 2019 Bill Mainland Nelson. Powered by [Hugo](https://gohugo.io/)"
 
 # Metadata
-    description         = "Official site for Bill Mainland Nelson, poet and cyclist"
+    description         = "Official site for Bill Mainland Nelson. Poetry, writing, books, bicycles and contact details."
     twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
     primaryImage        = "tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
