@@ -17,7 +17,7 @@ enableRobotsTXT         = true
     homepage            = "Main"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = false                          # Allow links to the full size images
-    footerText          = "© 2019 Bill Mainland Nelson"
+    footerText          = "© 2019 Bill Mainland Nelson | [source code](https://github.com/billgeo/billmainlandnelson.com)"
 
 # Metadata
     description         = "The official Bill Mainland Nelson. Poetry, writing, books, bicycles."
