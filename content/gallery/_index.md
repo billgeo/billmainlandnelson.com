@@ -1,5 +1,5 @@
 ---
-title: "Bicycles I Have Owned"
+title: "Bicycles He Has Owned"
 type: "gallery"
 url: "/bicycles"
 ---
