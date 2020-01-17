@@ -3,7 +3,7 @@ My website, built with [Hugo](https://github.com/gohugoio/hugo) and deployed on 
 
 ## Development
 
-* Create branch and a checkout
+* Create branch and checkout
 * Test locally with `Hugo server`
 * Create pull request
 
