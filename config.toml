@@ -3,7 +3,7 @@ languageCode = "en-uk"
 defaultContentLanguage  = "en"
 isMultilingual          = false
 title = "Bill Mainland Nelson"
-theme = "bill2"
+theme = "hugo-theme-sam"
 pygmentsStyle           = "monokai"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
 googleAnalytics         = "UA-135358161-1"
@@ -15,7 +15,6 @@ enableRobotsTXT         = true
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
     favicon             = "favicon.ico"
     homepage            = "Main"                        # What to call the home page link
-    galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = false                          # Allow links to the full size images
     footerText          = "© 2019 Bill Mainland Nelson | [source code](https://github.com/billgeo/billmainlandnelson.com)"
 
@@ -32,7 +31,7 @@ enableRobotsTXT         = true
 
 [[params.mainMenu]]
     link = "/work"
-    text = "Work"
+    text = "Writing"
 
 [[params.mainMenu]]
     link = "/bicycles"
