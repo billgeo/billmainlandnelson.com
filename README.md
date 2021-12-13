@@ -3,9 +3,22 @@ My website, built with [Hugo](https://github.com/gohugoio/hugo) and deployed on 
 
 ## Development
 
+### Update submodules
+
+```bash:
+git submodule init
+git submodule update
+```
+
+### Make your changes
 * Create branch and checkout
-* Test locally with `Hugo server`
-* Create pull request
+* Test locally 
+
+```bash:
+Hugo server
+```
+
+* Commit, push and create pull request
 
 ## Deployment
 
