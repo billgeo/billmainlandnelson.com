@@ -22,7 +22,7 @@ Hugo server
 
 ## Deployment
 
-* Review by creating AWS Amplify app connected to branch 
+* Review by creating [AWS Amplify](https://console.aws.amazon.com/amplify) app connected to branch 
 * Merge pull request
 * Site is automatically deployed to AWS Amplify
 
