@@ -35,3 +35,7 @@ Simon Sweetman, goodreads.com
 [Memorandum of Understanding](https://www.bestnewzealandpoems.org.nz/past-issues/2016-contents/bill-nelson/) (2017)
 
 [![A Champion](/images/work/andre.jpg)](https://www.bestnewzealandpoems.org.nz/past-issues/2016-contents/bill-nelson/)
+
+### Against the Prevailing Winds - Courtenay Place Lightboxes
+
+[![I saw her through a series of precision cut mirrors](/images/work/lightboxes.jpg)](https://wellington.govt.nz/arts-and-culture/arts/public-art/light-boxes/courtenay-place-park/past-exhibits)
