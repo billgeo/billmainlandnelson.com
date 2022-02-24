@@ -1,7 +1,8 @@
 name: External Links
 
 on:
-  push: [ master ]
+  push: 
+    branches: [ master ]
   schedule:
     - cron: "00 18 * * 1" # Check monthly
 
