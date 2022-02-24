@@ -3,7 +3,7 @@ on:
     - cron: 0 0 1 * * # run monthly
   push:
     branches: [ master ]
-  pr:
+  pull_request:
     branches: [ master ]
 
 name: Broken Link Check
