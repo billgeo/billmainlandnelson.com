@@ -22,9 +22,12 @@ Hugo server
 
 ## Deployment
 
-* Review by creating AWS Amplify app connected to branch 
-* Merge pull request
-* Site is automatically deployed to AWS Amplify
+#### Production
+* Push to Master
+
+### Test
+* Create an [AWS Amplify](https://console.aws.amazon.com/amplify) app connected to a branch
+* Push to the branch
 
 ## Deployed site
 
