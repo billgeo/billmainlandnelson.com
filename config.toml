@@ -1,4 +1,6 @@
-baseURL = "https://billgeo.github.io/billmainlandnelson.com/" #"https://billmainlandnelson.com/"
+baseURL = "https://billmainlandnelson.com/"
+# If deploying to GH Pages 
+# baseURL = "https://billgeo.github.io/billmainlandnelson.com/"
 languageCode = "en-uk"
 defaultContentLanguage  = "en"
 isMultilingual          = false
