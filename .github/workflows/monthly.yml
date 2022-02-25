@@ -1,11 +1,26 @@
-name: External Links
+name: Monthly
 
 on:
   schedule:
     - cron: "0 0 1 * *" # Check monthly
 
 jobs:
-  linkChecker:
+  stale:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+
+    steps:
+    - uses: actions/stale@v3
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        stale-issue-message: 'Stale issue message'
+        stale-pr-message: 'Stale pull request message'
+        stale-issue-label: 'no-issue-activity'
+        stale-pr-label: 'no-pr-activity'
+  
+  link-check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
