@@ -1,5 +1,6 @@
 # billmainlandnelson.com
-My website, built with [Hugo](https://github.com/gohugoio/hugo) and deployed on Github Pages
+My personal website for writing and stuff.
+Easily built and maintained with [Hugo](https://github.com/gohugoio/hugo), beautifully themed with [sam](https://github.com/victoriadrake/hugo-theme-sam) by @victoriadrake, and hosted for free on [Github Pages](https://pages.github.com/). Thanks y'all.
 
 ## Development
 
