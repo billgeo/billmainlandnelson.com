@@ -1,4 +1,4 @@
-baseURL = "https://billgeo.github.io/billmainlandnelson.com/"
+baseURL = "https://billgeo.github.io/"
 languageCode = "en-uk"
 defaultContentLanguage  = "en"
 isMultilingual          = false
