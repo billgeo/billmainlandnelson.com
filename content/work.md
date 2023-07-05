@@ -4,6 +4,12 @@ date: 2019-02-27T18:28:43+01:00
 draft: false
 ---
 
+### Root Leaf Flower Fruit
+
+"I was completely absorbed by this story song of a grandson and grandmother trying to connect both to the world around them and to their sense of self." —Tina Makereti, author of *The Imaginary Lives of James Pōneke* and *Where the Rēkohu Bone Sings*.
+
+[![Root Leaf Flower Fruit](https://cdn11.bigcommerce.com/s-58zklai/images/stencil/1200x1200/products/1294/2072/Root-Leaf-Flower-Fruit-CVR-final__55644.1687479153.jpg)](https://teherengawakapress.co.nz/root-leaf-flower-fruit/)
+
 ### Memorandum of Understanding
 
 “No, seriously, it’s fucking great writing.”
