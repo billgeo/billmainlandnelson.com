@@ -16,7 +16,7 @@ enableRobotsTXT         = true
     favicon             = "favicon.ico"
     homepage            = "Main"                        # What to call the home page link
     clickablePhotos     = false                          # Allow links to the full size images
-    footerText          = "© 2019 Bill Mainland Nelson | [source code](https://github.com/billgeo/billmainlandnelson.com)"
+    footerText          = "© 2019-2023 Bill Mainland Nelson | [source code](https://github.com/billgeo/billmainlandnelson.com)"
 
 # Metadata
     description         = "The official Bill Mainland Nelson. Poetry, writing, books, bicycles."
