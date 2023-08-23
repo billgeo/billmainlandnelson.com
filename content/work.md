@@ -16,13 +16,10 @@ Anna Smaill, author of *The Chimes* and *Bird Life*.
 
 ### Memorandum of Understanding
 
-"I love the dead-pan maleness of the poem 'Charlie’s shed', especially with its wonderfully contrived final lines, speaking eloquently of what endures and what is ephemeral"
-Nicholas Reid, [Reid's Reader](https://reidsreader.blogspot.com/2016/06/something-new_20.html)
+[NZ Listener](https://www.nzherald.co.nz/the-listener/) top 100 books of the year
 
 "No, seriously, it’s fucking great writing."
 Simon Sweetman, goodreads.com
-
-[NZ Listener](https://www.nzherald.co.nz/the-listener/) top 100 books of the year
 
 [![Memorandum of Understanding](/images/work/MOU.jpg)](https://vup.victoria.ac.nz/memorandum-of-understanding/)
 
