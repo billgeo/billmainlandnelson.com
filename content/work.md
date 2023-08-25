@@ -6,23 +6,17 @@ draft: false
 
 ### Root Leaf Flower Fruit
 
-"I was completely absorbed by this story song of a grandson and grandmother trying to connect both to the world around them and to their sense of self."
-Tina Makereti, author of *The Imaginary Lives of James Pōneke* and *Where the Rēkohu Bone Sings*.
+"I was completely absorbed by this story song of a grandson and grandmother trying to connect both to the world around them and to their sense of self." —Tina Makereti, author of *The Imaginary Lives of James Pōneke* and *Where the Rēkohu Bone Sings*.
 
-"This book kept surprising me. I loved its fascination with the body's sleights of hand, and the attention it paid to childhood, memory and other buried things."
-Anna Smaill, author of *The Chimes* and *Bird Life*.
+"This book kept surprising me. I loved its fascination with the body's sleights of hand, and the attention it paid to childhood, memory and other buried things." —Anna Smaill, author of *The Chimes* and *Bird Life*.
 
 [![Root Leaf Flower Fruit](https://cdn11.bigcommerce.com/s-58zklai/images/stencil/1200x1200/products/1294/2072/Root-Leaf-Flower-Fruit-CVR-final__55644.1687479153.jpg)](https://teherengawakapress.co.nz/root-leaf-flower-fruit/)
 
 ### Memorandum of Understanding
 
-"I love the dead-pan maleness of the poem 'Charlie’s shed', especially with its wonderfully contrived final lines, speaking eloquently of what endures and what is ephemeral"
-Nicholas Reid, [Reid's Reader](https://reidsreader.blogspot.com/2016/06/something-new_20.html)
-
-"No, seriously, it’s fucking great writing."
-Simon Sweetman, goodreads.com
-
 [NZ Listener](https://www.nzherald.co.nz/the-listener/) top 100 books of the year
+
+"No, seriously, it’s fucking great writing." —Simon Sweetman, goodreads.com
 
 [![Memorandum of Understanding](/images/work/MOU.jpg)](https://vup.victoria.ac.nz/memorandum-of-understanding/)
 
