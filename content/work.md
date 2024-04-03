@@ -10,7 +10,7 @@ draft: false
 
 "This book kept surprising me. I loved its fascination with the body's sleights of hand, and the attention it paid to childhood, memory and other buried things." —Anna Smaill, author of *The Chimes* and *Bird Life*.
 
-Longlisted for the [2024 NZ Book Awards](https://www.nzbookawards.nz/new-zealand-book-awards/2024-awards/longlist/)
+Shortlisted for the [2024 NZ Book Awards](https://www.nzbookawards.nz/new-zealand-book-awards/2024-awards/)
 
 [NZ Listener](https://www.nzherald.co.nz/the-listener/books/the-year-in-books-the-top-10-poetry-collections/BYKDYTUYRVALHNVOPDRJT3CJLM/) Top 10 books poetry collections 2023
 
