@@ -8,6 +8,7 @@ pygmentsStyle           = "monokai"                     # https://help.farbox.co
 pygmentsCodefences      = true
 googleAnalytics         = "UA-135358161-1"
 enableRobotsTXT         = true
+backgroundImage         = images/work/RLFF.jpg
 
 [params]
     author = "Bill Nelson"
