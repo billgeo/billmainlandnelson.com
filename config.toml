@@ -27,7 +27,7 @@ enableRobotsTXT         = true
 
 [[params.mainMenu]]
     link = "/about"
-    text = "Bill Mainland Nelson"
+    text = "About"
 
 [[params.mainMenu]]
     link = "/work"
